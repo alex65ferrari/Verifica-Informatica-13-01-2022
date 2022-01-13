@@ -1,0 +1,16 @@
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\treno.csproj.AssemblyReference.cache
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\treno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\treno.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\treno.AssemblyInfo.cs
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\treno.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\treno\bin\Debug\net5.0\treno.exe
+C:\Users\alex\source\repos\treno\bin\Debug\net5.0\treno.deps.json
+C:\Users\alex\source\repos\treno\bin\Debug\net5.0\treno.runtimeconfig.json
+C:\Users\alex\source\repos\treno\bin\Debug\net5.0\treno.runtimeconfig.dev.json
+C:\Users\alex\source\repos\treno\bin\Debug\net5.0\treno.dll
+C:\Users\alex\source\repos\treno\bin\Debug\net5.0\ref\treno.dll
+C:\Users\alex\source\repos\treno\bin\Debug\net5.0\treno.pdb
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\treno.dll
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\ref\treno.dll
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\treno.pdb
+C:\Users\alex\source\repos\treno\obj\Debug\net5.0\treno.genruntimeconfig.cache
